@@ -16,10 +16,6 @@ A curated list of companies in the [Los Angeles and Southern California area](ht
 
 * [Grindr](https://www.grindr.com/) - Since launching in 2009, Grindr has quickly grown into the world’s largest social networking app for gay, bi, trans, and queer people. With millions of daily users spanning almost every country in every corner of the planet, Grindr brings you zero feet away from connecting to a community that grows stronger every day.
 
-#### Entertainment
-
-* [Hallmark Labs](https://www.hallmarklabs.com/) - A subsidiary of Hallmark Cards Inc., based in Santa Monica California, we are the digital, direct-to-consumer arm of our parent company.  We operate several digital subscription services including: Hallmark Movies Now (a subscription video on demand service), Hallmark eCards (a digital social expression service), and a print-on-demand service.
-
 #### Health and Beauty
 
 * [Dollar Shave Club](https://www.dollarshaveclub.com/) - A Venice, California-based company that delivers razors and other personal grooming products to customers by mail. It delivers razor blades on a monthly basis and offers additional grooming products for home delivery. We use Elixir in some of our new internal production tools.
